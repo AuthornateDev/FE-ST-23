@@ -13,7 +13,7 @@ Authornate provides tailored software, web, and mobile applications to small, me
 https://www.figma.com/file/CS0Hg1Oaa1exNLB28NFWID/Authornate-FE-ST-23?node-id=16%3A8&t=hwd5NLfZOFUtS5yS-1
 
 The application can be built using any Frontend Framework/Library such as React, Next, Vue. We do use React (especially Next.js) on most of our projects.
-Use Custom CSS, for the design. Make sure components are reusable throught the application.
+Use Custom CSS and AMcharts for the design. Make sure components are reusable throught the application.
 
 The application must have the:
 - clean and optimised code.
